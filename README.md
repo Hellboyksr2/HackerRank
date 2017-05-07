@@ -1,3 +1,3 @@
 # HackerRank
 
-Source Code used to solve the hacker Rank Algoritms Problems
+Source Code for All Hacker Rank Challenges
